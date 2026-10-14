@@ -1,0 +1,108 @@
+{
+  "full_name": "Smith John Michael",
+  "date_of_birth": "22.07.1982",
+  "citizenship": "United Kingdom",
+  "email": "j.smith@seamail.com",
+  "phone": "+44 7700 900123",
+  "rank": "Chief Officer",
+  "vessel_types": [
+    "Tanker"
+  ],
+  "trading_area": "Worldwide",
+  "years_in_rank": 6.0,
+  "total_sea_years": 18.0,
+  "sea_service": [
+    {
+      "period": "2020 - present",
+      "rank": "Chief Officer",
+      "vessel": "British Ruby",
+      "vessel_type": "Tanker",
+      "dwt": 115000
+    },
+    {
+      "period": "2017 - 2020",
+      "rank": "Chief Officer",
+      "vessel": "Stolt Loyalty",
+      "vessel_type": "Tanker",
+      "dwt": 75000
+    },
+    {
+      "period": "2013 - 2017",
+      "rank": "Second Officer",
+      "vessel": "Front Altair",
+      "vessel_type": "Tanker",
+      "dwt": 110000
+    },
+    {
+      "period": "2010 - 2013",
+      "rank": "Third Officer",
+      "vessel": "Nordic Passat",
+      "vessel_type": "Tanker",
+      "dwt": 50000
+    }
+  ],
+  "certificates": [
+    {
+      "name": "STCW Basic Safety Training",
+      "number": "BST-2010-4471",
+      "issued_date": "15.03.2010",
+      "expiry_date": "15.03.2035"
+    },
+    {
+      "name": "Advanced Fire Fighting",
+      "number": "AFF-2012-8890",
+      "issued_date": "22.08.2012",
+      "expiry_date": "22.08.2037"
+    },
+    {
+      "name": "GMDSS GOC",
+      "number": "GOC-2011-2233",
+      "issued_date": "10.11.2011",
+      "expiry_date": "10.11.2036"
+    },
+    {
+      "name": "Medical First Aid",
+      "number": "MFA-2010-5544",
+      "issued_date": "18.03.2010",
+      "expiry_date": "18.03.2035"
+    },
+    {
+      "name": "Radar Navigation",
+      "number": "RN-2015-6677",
+      "issued_date": "05.06.2015",
+      "expiry_date": "05.06.2040"
+    },
+    {
+      "name": "Tanker Familiarization",
+      "number": "TF-2010-1122",
+      "issued_date": "20.09.2010",
+      "expiry_date": "20.09.2035"
+    },
+    {
+      "name": "Advanced Oil Tanker Cargo Operations",
+      "number": "AOTC-2013-3344",
+      "issued_date": "14.04.2013",
+      "expiry_date": "14.04.2038"
+    }
+  ],
+  "medical_valid_until": "10.05.2027",
+  "seamans_book": {
+    "number": "GB1234567",
+    "valid_until": "18.09.2029"
+  },
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    },
+    {
+      "language": "Russian",
+      "level": "Intermediate"
+    }
+  ],
+  "education": {
+    "institution": "Warsash Maritime Academy",
+    "specialty": "Navigation",
+    "year": 2009
+  }
+}

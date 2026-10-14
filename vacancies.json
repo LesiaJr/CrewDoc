@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Second Officer",
+    "vessel_type": "Container",
+    "min_years_in_rank": 3,
+    "min_total_years": 7,
+    "trading_area": "Worldwide",
+    "planned_contract_months": 6,
+    "required_certs": [
+      "STCW Basic Safety Training",
+      "Advanced Fire Fighting",
+      "GMDSS GOC",
+      "Medical First Aid",
+      "Radar Navigation"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Third Officer",
+    "vessel_type": "Container",
+    "min_years_in_rank": 1,
+    "min_total_years": 2,
+    "trading_area": "Worldwide",
+    "planned_contract_months": 6,
+    "required_certs": [
+      "STCW Basic Safety Training",
+      "GMDSS GOC",
+      "Medical First Aid"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Chief Officer",
+    "vessel_type": "Tanker",
+    "min_years_in_rank": 4,
+    "min_total_years": 12,
+    "trading_area": "Worldwide",
+    "planned_contract_months": 6,
+    "required_certs": [
+      "STCW Basic Safety Training",
+      "Advanced Fire Fighting",
+      "GMDSS GOC",
+      "Medical First Aid",
+      "Radar Navigation",
+      "Tanker Familiarization"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Third Officer",
+    "vessel_type": "Bulk",
+    "min_years_in_rank": 1,
+    "min_total_years": 2,
+    "trading_area": "Europe",
+    "planned_contract_months": 6,
+    "required_certs": [
+      "STCW Basic Safety Training",
+      "GMDSS GOC",
+      "Medical First Aid"
+    ]
+  }
+]

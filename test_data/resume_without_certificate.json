@@ -1,0 +1,89 @@
+{
+  "full_name": "Соколов Дмитрий Андреевич",
+  "date_of_birth": "08.05.1990",
+  "citizenship": " РФ",
+  "email": "sokolov.da@sea.ru",
+  "phone": "+7 916 444-55-66",
+  "rank": "Second Officer",
+  "vessel_types": [
+    "Container"
+  ],
+  "trading_area": "Worldwide",
+  "years_in_rank": 4.0,
+  "total_sea_years": 9.0,
+  "sea_service": [
+    {
+      "period": "2021 - настоящее время",
+      "rank": "Second Officer",
+      "vessel": "CMA CGM Marco Polo",
+      "vessel_type": "Container",
+      "dwt": 180000
+    },
+    {
+      "period": "2018 - 2021",
+      "rank": "Third Officer",
+      "vessel": "Maersk Sealand",
+      "vessel_type": "Container",
+      "dwt": 60000
+    },
+    {
+      "period": "2016 - 2018",
+      "rank": "Deck Cadet",
+      "vessel": "Nord Star",
+      "vessel_type": "Bulk",
+      "dwt": 45000
+    }
+  ],
+  "certificates": [
+    {
+      "name": "STCW Basic Safety Training",
+      "number": "BST-2016-4411",
+      "issued_date": "12.04.2016",
+      "expiry_date": "12.04.2041"
+    },
+    {
+      "name": "GMDSS GOC",
+      "number": "GOC-2017-8822",
+      "issued_date": "22.07.2017",
+      "expiry_date": "22.07.2042"
+    },
+    {
+      "name": "Medical First Aid",
+      "number": "MFA-2016-7711",
+      "issued_date": "15.04.2016",
+      "expiry_date": "15.04.2041"
+    },
+    {
+      "name": "Radar Navigation",
+      "number": "RN-2019-3344",
+      "issued_date": "05.12.2019",
+      "expiry_date": "05.12.2044"
+    },
+    {
+      "name": "Ship Security Officer",
+      "number": "SSO-2021-0099",
+      "issued_date": "12.09.2021",
+      "expiry_date": "12.09.2046"
+    }
+  ],
+  "medical_valid_until": "15.06.2027",
+  "seamans_book": {
+    "number": "5566778899",
+    "valid_until": "30.11.2028"
+  },
+  "languages": [
+    {
+      "language": "Русский",
+      "level": "Native"
+    },
+    {
+      "language": "Английский",
+      "level": "Intermediate"
+    }
+  ],
+  "education": {
+    "institution": "ГМУ им. адм. Ушакова",
+    "specialty": "судовождение",
+    "year": 2016
+  }
+}

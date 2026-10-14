@@ -1,0 +1,90 @@
+{
+  "full_name": "Морозова Анна Сергеевна",
+  "date_of_birth": "12.11.1995",
+  "citizenship": "РФ",
+  "email": "morozova.as@sea.ru",
+  "phone": "+7 911 222-33-44",
+  "rank": "Third Officer",
+  "vessel_types": [
+    "Bulk"
+  ],
+  "trading_area": "Europe",
+  "years_in_rank": 3.0,
+  "total_sea_years": 5.0,
+  "sea_service": [
+    {
+      "period": "2022 – настоящее время",
+      "rank": "Third Officer",
+      "vessel": "Baltic Carrier",
+      "vessel_type": "Bulk",
+      "dwt": 38000
+    },
+    {
+      "period": "2020 – 2022",
+      "rank": "Deck Cadet",
+      "vessel": "Baltic Carrier",
+      "vessel_type": "Bulk",
+      "dwt": 32000
+    },
+    {
+      "period": "2020 – 2022",
+      "rank": "Deck Cadet",
+      "vessel": "Northern Star",
+      "vessel_type": "Bulk",
+      "dwt": 32000
+    },
+    {
+      "period": "2019 – 2020",
+      "rank": "Deck Cadet",
+      "vessel": "Sea Spirit",
+      "vessel_type": "Bulk",
+      "dwt": 28000
+    }
+  ],
+  "certificates": [
+    {
+      "name": "STCW Basic Safety Training",
+      "number": "BST-2020-7788",
+      "issued_date": "10.06.2020",
+      "expiry_date": "10.06.2045"
+    },
+    {
+      "name": "Advanced Fire Fighting",
+      "number": "AFF-2022-9911",
+      "issued_date": "15.03.2022",
+      "expiry_date": "15.03.2047"
+    },
+    {
+      "name": "GMDSS GOC",
+      "number": "GOC-2021-3344",
+      "issued_date": "20.09.2021",
+      "expiry_date": "20.09.2046"
+    },
+    {
+      "name": "Medical First Aid",
+      "number": "MFA-2020-5566",
+      "issued_date": "12.06.2020",
+      "expiry_date": "12.06.2045"
+    }
+  ],
+  "medical_valid_until": "05.04.2027",
+  "seamans_book": {
+    "number": "9876543210",
+    "valid_until": "22.12.2028"
+  },
+  "languages": [
+    {
+      "language": "Русский",
+      "level": "Native"
+    },
+    {
+      "language": "Английский",
+      "level": "Intermediate"
+    }
+  ],
+  "education": {
+    "institution": "Учебное заведение: ГМУ им. адм. Ушакова",
+    "specialty": "судовождение",
+    "year": 2020
+  }
+}

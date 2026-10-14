@@ -1,0 +1,33 @@
+{
+  "STCW Basic Safety Training": [
+    "STCW Basic Safety",
+    "Basic Safety Training",
+    "Базовый курс безопасности",
+    "BST"
+  ],
+  "Advanced Fire Fighting": [
+    "AFF",
+    "Пожарная безопасность",
+    "Продвинутая борьба с пожаром"
+  ],
+  "GMDSS GOC": [
+    "GOC",
+    "General Operator Certificate",
+    "GMDSS General Operator"
+  ],
+  "Medical First Aid": [
+    "MFA",
+    "Первая медицинская помощь",
+    "Medical Aid"
+  ],
+  "Radar Navigation": [
+    "Radar",
+    "Навигация по радару",
+    "Radar Navigation and ARPA"
+  ],
+  "Tanker Familiarization": [
+    "Tanker Familiarisation",
+    "TF",
+    "Ознакомление с танкером"
+  ]
+}
