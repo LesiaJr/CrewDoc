@@ -13,28 +13,21 @@
   "total_sea_years": 5.0,
   "sea_service": [
     {
-      "period": "2022 – настоящее время",
+      "period": "2022 - настоящее время",
       "rank": "Third Officer",
       "vessel": "Baltic Carrier",
       "vessel_type": "Bulk",
       "dwt": 38000
     },
     {
-      "period": "2020 – 2022",
-      "rank": "Deck Cadet",
-      "vessel": "Baltic Carrier",
-      "vessel_type": "Bulk",
-      "dwt": 32000
-    },
-    {
-      "period": "2020 – 2022",
+      "period": "2020 - 2022",
       "rank": "Deck Cadet",
       "vessel": "Northern Star",
       "vessel_type": "Bulk",
       "dwt": 32000
     },
     {
-      "period": "2019 – 2020",
+      "period": "2019 - 2020",
       "rank": "Deck Cadet",
       "vessel": "Sea Spirit",
       "vessel_type": "Bulk",
@@ -83,7 +76,7 @@
     }
   ],
   "education": {
-    "institution": "Учебное заведение: ГМУ им. адм. Ушакова",
+    "institution": "ГМУ им. адм. Ушакова",
     "specialty": "судовождение",
     "year": 2020
   }

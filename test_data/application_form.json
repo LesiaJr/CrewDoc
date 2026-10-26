@@ -1,0 +1,65 @@
+{
+  "full_name": "ПАВЕЛ ГРЕБЕННИКОВ МИХАЙЛОВИЧ",
+  "date_of_birth": "13.09.1990",
+  "citizenship": "РУССКИЙ",
+  "email": "grebennikovatx@ro.ru",
+  "phone": "+79996271515",
+  "rank": "Seaman",
+  "vessel_types": [
+    "Bulk"
+  ],
+  "trading_area": null,
+  "years_in_rank": null,
+  "total_sea_years": null,
+  "sea_service": [
+    {
+      "period": "2016-11-14",
+      "rank": "Seaman",
+      "vessel": null,
+      "vessel_type": "Bulk",
+      "dwt": null
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Морской диплом",
+      "number": "0648079",
+      "issued_date": "06.09.2016",
+      "expiry_date": "06.09.2021"
+    },
+    {
+      "name": "Диплом ГМССБ",
+      "number": "0649460",
+      "issued_date": "12.09.2016",
+      "expiry_date": "12.09.2021"
+    },
+    {
+      "name": "Нач. подготовка по безоп. ТР",
+      "number": "0651757",
+      "issued_date": "14.09.2016",
+      "expiry_date": "14.09.2021"
+    },
+    {
+      "name": "Мед. комиссия",
+      "number": null,
+      "issued_date": null,
+      "expiry_date": null
+    }
+  ],
+  "medical_valid_until": null,
+  "seamans_book": {
+    "number": "MK 0209660",
+    "valid_until": "14.11.2021"
+  },
+  "languages": [
+    {
+      "language": "ENGLISH",
+      "level": "Fair"
+    }
+  ],
+  "education": {
+    "institution": "Maritime college",
+    "specialty": "Морское (речное) образование",
+    "year": 2016
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "full_name": "Никитин Олег Владимирович",
+  "date_of_birth": "19.09.1992",
+  "citizenship": null,
+  "email": "oleg.nikitin@mail.ru",
+  "phone": null,
+  "rank": "2nd Officer",
+  "vessel_types": [
+    "Container"
+  ],
+  "trading_area": null,
+  "years_in_rank": 4.0,
+  "total_sea_years": 10.0,
+  "sea_service": [
+    {
+      "period": "2020-текущий момент",
+      "rank": "2nd Officer",
+      "vessel": "MSC Anna",
+      "vessel_type": "Container",
+      "dwt": null
+    }
+  ],
+  "certificates": [
+    {
+      "name": "STCW Basic Safety",
+      "number": "123",
+      "issued_date": "2018-05-12",
+      "expiry_date": "2040-05-12"
+    },
+    {
+      "name": "AFF (Advanced Fire Fighting)",
+      "number": null,
+      "issued_date": "2019-11-10",
+      "expiry_date": "2027-01-15"
+    },
+    {
+      "name": "GMDSS GOC",
+      "number": null,
+      "issued_date": "2018-01-01",
+      "expiry_date": null
+    },
+    {
+      "name": "Medical First Aid",
+      "number": null,
+      "issued_date": null,
+      "expiry_date": "2026-12-20"
+    },
+    {
+      "name": "Radar, ARPA и ECDIS",
+      "number": null,
+      "issued_date": null,
+      "expiry_date": "2044-09-01"
+    }
+  ],
+  "medical_valid_until": "2026-12-20",
+  "seamans_book": {
+    "number": "99887766",
+    "valid_until": "2029-12-20"
+  },
+  "languages": [
+    {
+      "language": "English",
+      "level": "fluent"
+    },
+    {
+      "language": "Russian",
+      "level": "native"
+    }
+  ],
+  "education": {
+    "institution": null,
+    "specialty": null,
+    "year": null
+  }
+}

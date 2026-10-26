@@ -1,0 +1,78 @@
+{
+  "full_name": "Волков Андрей Николаевич",
+  "date_of_birth": "10.11.1991",
+  "citizenship": "РФ",
+  "email": "volkov.an@sea.ru",
+  "phone": "+7 921 111-22-33",
+  "rank": "Second Officer",
+  "vessel_types": [
+    "Container"
+  ],
+  "trading_area": null,
+  "years_in_rank": 4.0,
+  "total_sea_years": 8.0,
+  "sea_service": [
+    {
+      "period": "2020 – наст. время",
+      "rank": "Second Officer",
+      "vessel": "FESCO Diomid",
+      "vessel_type": "Container",
+      "dwt": 50000
+    },
+    {
+      "period": "2017 – 2020",
+      "rank": "Third Officer",
+      "vessel": "MSC Anna",
+      "vessel_type": "Container",
+      "dwt": 85000
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Basic Safety Training (STCW A-VI/1)",
+      "number": "12345",
+      "issued_date": "10.01.2017",
+      "expiry_date": "10.01.2042"
+    },
+    {
+      "name": "Продвинутая подготовка по борьбе с пожаром (AFF)",
+      "number": "98765",
+      "issued_date": "15.03.2018",
+      "expiry_date": "15.03.2043"
+    },
+    {
+      "name": "Global Maritime Distress and Safety System - General Operator Certificate",
+      "number": "GOC-777",
+      "issued_date": "20.05.2017",
+      "expiry_date": "20.05.2042"
+    },
+    {
+      "name": "Свидетельство о первой медицинской помощи (MFA)",
+      "number": "333-444",
+      "issued_date": "12.01.2017",
+      "expiry_date": "12.01.2042"
+    },
+    {
+      "name": "Radar Navigation, ARPA & ECDIS",
+      "number": "RN-555",
+      "issued_date": "01.09.2019",
+      "expiry_date": "01.09.2044"
+    }
+  ],
+  "medical_valid_until": "01.10.2026",
+  "seamans_book": {
+    "number": "1112223334",
+    "valid_until": "15.08.2027"
+  },
+  "languages": [
+    {
+      "language": "Английский",
+      "level": "Upper-Intermediate"
+    }
+  ],
+  "education": {
+    "institution": "ГМУ им. адм. Ушакова",
+    "specialty": "судовождение",
+    "year": 2014
+  }
+}
