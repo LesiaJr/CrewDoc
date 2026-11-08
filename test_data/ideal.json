@@ -5,29 +5,54 @@
   "email": "ivanov.ip@mail.ru",
   "phone": "+7 999 123-45-67",
   "rank": "Second Officer",
+  "documents": {
+    "passport_rf": null,
+    "zagran_passport": null,
+    "sid": null,
+    "schengen_visa": null,
+    "bank_account": null,
+    "inn": null,
+    "snils": null,
+    "military_id": null,
+    "discharge_book": null,
+    "work_book": null,
+    "extra_docs": {
+      "work_book": null
+    }
+  },
   "vessel_types": [
-    "Container"
+    "Container",
+    "Bulk"
   ],
+  "medical_info": {
+    "medical_book": null,
+    "medical_714": null,
+    "drug_test": null,
+    "yellow_fever": null,
+    "psych_test": null,
+    "san_minimum": null,
+    "valid_until": "20.01.2027"
+  },
   "trading_area": "Worldwide",
-  "years_in_rank": 5.0,
-  "total_sea_years": 10.0,
+  "years_in_rank": null,
+  "total_sea_years": null,
   "sea_service": [
     {
-      "period": "2019 – настоящее время",
+      "period": "2019 - настоящее время",
       "rank": "Second Officer",
       "vessel": "MSC Anna",
       "vessel_type": "Container",
       "dwt": 85000
     },
     {
-      "period": "2016 – 2019",
+      "period": "2016 - 2019",
       "rank": "Third Officer",
       "vessel": "Maersk Sealand",
       "vessel_type": "Container",
       "dwt": 60000
     },
     {
-      "period": "2014 – 2016",
+      "period": "2014 - 2016",
       "rank": "Deck Cadet",
       "vessel": "Nord Star",
       "vessel_type": "Bulk",
@@ -66,11 +91,6 @@
       "expiry_date": "03.09.2033"
     }
   ],
-  "medical_valid_until": "20.01.2027",
-  "seamans_book": {
-    "number": "1234567890",
-    "valid_until": "14.08.2028"
-  },
   "languages": [
     {
       "language": "Английский",
@@ -85,5 +105,6 @@
     "institution": "ГМУ им. адм. Ушакова",
     "specialty": "судовождение",
     "year": 2014
-  }
+  },
+  "extra_info": {}
 }

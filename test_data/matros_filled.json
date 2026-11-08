@@ -1,0 +1,69 @@
+{
+  "full_name": "Сидоров Алексей Иванович",
+  "date_of_birth": null,
+  "citizenship": null,
+  "email": null,
+  "phone": null,
+  "rank": "Matros",
+  "documents": {
+    "passport_rf": "4510 123456",
+    "zagran_passport": null,
+    "inn": "123456789012",
+    "snils": "123-456-789 00",
+    "military_id": "Есть",
+    "medical_book": null,
+    "drug_test": null
+  },
+  "vessel_types": [
+    "Container"
+  ],
+  "trading_area": null,
+  "years_in_rank": 2.0,
+  "total_sea_years": 2.0,
+  "sea_service": [
+    {
+      "period": null,
+      "rank": "Matros",
+      "vessel": null,
+      "vessel_type": "Container",
+      "dwt": null
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Удостоверение квалифицированного матроса (II/5)",
+      "number": "AB-123",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    },
+    {
+      "name": "Начальная подготовка безопасности",
+      "number": "BST-456",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    },
+    {
+      "name": "Подготовка моряков с обязанностями по охране",
+      "number": "SSO-789",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    },
+    {
+      "name": "Подготовка специалиста по спасательным шлюпкам",
+      "number": "PSCRB-101",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    }
+  ],
+  "medical_valid_until": "10.10.2026",
+  "seamans_book": {
+    "number": "1234567890",
+    "valid_until": "01.01.2030"
+  },
+  "languages": [],
+  "education": {
+    "institution": null,
+    "specialty": null,
+    "year": null
+  }
+}

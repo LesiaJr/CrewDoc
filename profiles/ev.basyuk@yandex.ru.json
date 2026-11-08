@@ -1,0 +1,194 @@
+{
+  "full_name": "Basyuk Evgeny",
+  "date_of_birth": "21-06-1994",
+  "citizenship": "Russia",
+  "email": "ev.basyuk@yandex.ru",
+  "phone": "+79614042121",
+  "rank": "Boatswain",
+  "documents": {
+    "passport_rf": "765360817",
+    "zagran_passport": null,
+    "sid": "0048130",
+    "schengen_visa": null,
+    "bank_account": null,
+    "inn": null,
+    "snils": null,
+    "military_id": null,
+    "discharge_book": "0048130",
+    "medical_book": null,
+    "drug_test": null,
+    "extra_docs": {}
+  },
+  "vessel_types": [
+    "Container Ship",
+    "Multi-Purpose Vessel",
+    "Crude Oil Tanker",
+    "General Cargo",
+    "Oil Products Tanker",
+    "Accommodation barge"
+  ],
+  "trading_area": "Container Ship",
+  "years_in_rank": 4.5,
+  "total_sea_years": 7.1,
+  "sea_service": [
+    {
+      "period": "15.08.2025 - 25.12.2025",
+      "rank": "Boatswain",
+      "vessel": "Lamantin",
+      "vessel_type": "Container Ship",
+      "dwt": 72884
+    },
+    {
+      "period": "16.02.2024 - 18.06.2024",
+      "rank": "Boatswain",
+      "vessel": "Safeen Prosper",
+      "vessel_type": "Container Ship",
+      "dwt": 28764
+    },
+    {
+      "period": "10.07.2023 - 21.12.2023",
+      "rank": "Boatswain",
+      "vessel": "MSC Suez",
+      "vessel_type": "Container Ship",
+      "dwt": 42000
+    },
+    {
+      "period": "08.10.2022 - 08.05.2023",
+      "rank": "Boatswain",
+      "vessel": "MSC Mandy",
+      "vessel_type": "Container Ship",
+      "dwt": 42000
+    },
+    {
+      "period": "01.12.2021 - 02.08.2022",
+      "rank": "Boatswain",
+      "vessel": "MSC Eloise",
+      "vessel_type": "Container Ship",
+      "dwt": 35595
+    },
+    {
+      "period": "10.09.2020 - 20.04.2021",
+      "rank": "Boatswain",
+      "vessel": "MSC Musset",
+      "vessel_type": "Container Ship",
+      "dwt": 72884
+    },
+    {
+      "period": "15.06.2019 - 21.11.2019",
+      "rank": "Boatswain",
+      "vessel": "Leo C",
+      "vessel_type": "Container Ship",
+      "dwt": 72884
+    },
+    {
+      "period": "15.09.2018 - 04.04.2019",
+      "rank": "AB Seaman",
+      "vessel": "Le Havre",
+      "vessel_type": "Container Ship",
+      "dwt": 109069
+    },
+    {
+      "period": "26.11.2017 - 23.07.2018",
+      "rank": "Boatswain",
+      "vessel": "CMA CGM Attila",
+      "vessel_type": "Container Ship",
+      "dwt": 91498
+    },
+    {
+      "period": "02.03.2017 - 18.09.2017",
+      "rank": "AB Seaman",
+      "vessel": "Express",
+      "vessel_type": "Container Ship",
+      "dwt": 35595
+    },
+    {
+      "period": "15.06.2016 - 23.07.2016",
+      "rank": "Boatswain",
+      "vessel": "Arctica",
+      "vessel_type": "Multi-Purpose Vessel",
+      "dwt": 6585
+    },
+    {
+      "period": "30.12.2015 - 06.05.2016",
+      "rank": "Boatswain",
+      "vessel": "VF tanker",
+      "vessel_type": "Crude Oil Tanker",
+      "dwt": 7000
+    },
+    {
+      "period": "02.02.2014 - 10.07.2014",
+      "rank": "AB / Crane Operator",
+      "vessel": "Modul",
+      "vessel_type": "General Cargo",
+      "dwt": 3000
+    },
+    {
+      "period": "06.06.2013 - 09.11.2013",
+      "rank": "AB Seaman",
+      "vessel": "Волго-Дон",
+      "vessel_type": "General Cargo",
+      "dwt": 4991
+    },
+    {
+      "period": "24.04.2013 - 06.06.2013",
+      "rank": "AB Seaman",
+      "vessel": "Бразерс-15",
+      "vessel_type": "Oil Products Tanker",
+      "dwt": 2856
+    },
+    {
+      "period": "11.10.2012 - 24.12.2012",
+      "rank": "AB Seaman",
+      "vessel": "Эскалибур",
+      "vessel_type": "Accommodation barge",
+      "dwt": 4748
+    },
+    {
+      "period": "28.04.2012 - 24.07.2012",
+      "rank": "Deck Cadet",
+      "vessel": "Фобус",
+      "vessel_type": "General Cargo",
+      "dwt": 2442
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Basic Safety Training",
+      "number": "283132",
+      "issued_date": "19.04.2021",
+      "expiry_date": "19.04.2026"
+    },
+    {
+      "name": "Security-Related Training & Instruction For all Seafarers",
+      "number": "0087522",
+      "issued_date": "19.04.2021",
+      "expiry_date": "19.04.2026"
+    },
+    {
+      "name": "Proficiency in Survival Craft and Rescue Boats",
+      "number": "352315",
+      "issued_date": "19.04.2021",
+      "expiry_date": "19.04.2026"
+    },
+    {
+      "name": "Basic Training for Oil and Chemical Tanker Cargo",
+      "number": "212625",
+      "issued_date": "19.04.2017",
+      "expiry_date": "19.04.2022"
+    }
+  ],
+  "medical_valid_until": null,
+  "languages": [
+    {
+      "language": null,
+      "level": null
+    }
+  ],
+  "education": {
+    "institution": null,
+    "specialty": null,
+    "year": null
+  },
+  "extra_info": {},
+  "profile_status": "DOCS_PENDING"
+}

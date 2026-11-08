@@ -1,10 +1,30 @@
 [
   {
     "id": 1,
+    "title": "Matros (Able Seaman)",
+    "vessel_type": "Container",
+    "min_years_in_rank": 0,
+    "min_total_years": 0,
+    "planned_contract_months": 6,
+    "requirements": [
+      "Удостоверение квалифицированного матроса (II/5)",
+      "Начальная подготовка безопасности",
+      "Подготовка моряков с обязанностями по охране",
+      "Подготовка специалиста по спасательным шлюпкам"
+    ],
+    "required_documents": [
+      "passport_rf",
+      "seamans_book",
+      "medical_valid_until",
+      "medical_book"
+    ]
+  },
+  {
+    "id": 2,
     "title": "Second Officer",
     "vessel_type": "Container",
-    "min_years_in_rank": 3,
-    "min_total_years": 7,
+    "min_years_in_rank": 2,
+    "min_total_years": 5,
     "planned_contract_months": 6,
     "requirements": [
       "STCW Basic Safety Training",
@@ -12,63 +32,90 @@
       "GMDSS GOC",
       "Medical First Aid",
       "Radar Navigation"
+    ],
+    "required_documents": [
+      "passport_rf",
+      "seamans_book",
+      "medical_valid_until"
     ]
   },
-  {
-    "id": 2,
-    "title": "Third Officer",
-    "vessel_type": "Container",
-    "min_years_in_rank": 1,
-    "min_total_years": 2,
-    "planned_contract_months": 6,
-    "requirements": [
-      "STCW Basic Safety Training",
-      "GMDSS GOC",
-      "Medical First Aid"
-    ]
-  },
+
   {
     "id": 3,
-    "title": "Chief Officer",
-    "vessel_type": "Tanker",
-    "min_years_in_rank": 4,
-    "min_total_years": 12,
+    "title": "Боцман",
+    "vessel_type": "Any",
+    "min_years_in_rank": 2,
+    "min_total_years": 4,
     "planned_contract_months": 6,
     "requirements": [
-      "STCW Basic Safety Training",
-      "Advanced Fire Fighting",
-      "GMDSS GOC",
-      "Medical First Aid",
-      "Radar Navigation",
-      "Tanker Familiarization",
-      "Advanced Oil Tanker Cargo Operations"
+      "Начальная подготовка безопасности (A-VI/1)",
+      "Подготовка моряков, имеющих назначенные обязанности по охране (A-VI/6)",
+      "Подготовка специалиста по спасательным шлюпкам и плотам (A-VI/2)",
+      "Перевозка опасных веществ на судах (B-V/b, B-V/c)",
+      "Начальная подготовка по проведению грузовых операций на нефтяных танкерах и танкерах-химовозах (V/1-1)"
+    ],
+    "required_documents": [
+      "Квалифицированный/Вахтенный Матрос (II/5) / Deck Rating (II/5)",
+      "passport_rf",
+      "zagran_passport",
+      "schengen_visa",
+      "bank_account",
+      "inn",
+      "snils",
+      "seamans_book",
+      "discharge_book",
+      "work_book",
+      "military_id",
+      "medical_book",
+      "medical_714",
+      "drug_test",
+      "yellow_fever",
+      "psych_test",
+      "san_minimum",
+      "crane_operator",
+      "slinger",
+      "commercial_secret"
     ]
   },
   {
     "id": 4,
-    "title": "Third Officer",
-    "vessel_type": "Bulk",
-    "min_years_in_rank": 1,
-    "min_total_years": 2,
-    "planned_contract_months": 6,
-    "requirements": [
-      "STCW Basic Safety Training",
-      "GMDSS GOC",
-      "Medical First Aid"
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Second Officer",
-    "vessel_type": "Tanker",
+    "title": "Электромеханик",
+    "vessel_type": "Any",
     "min_years_in_rank": 2,
     "min_total_years": 5,
     "planned_contract_months": 6,
     "requirements": [
-      "STCW Basic Safety Training",
-      "Advanced Fire Fighting",
-      "Medical Care", 
-      "Advanced Oil Tanker Cargo Operations"
+      "Диплом электромеханика (III/6) / Electric Engineer (III/6)",
+      "Диплом специалиста по проведению грузовых операций на нефтяных танкерах и танкерах-химовозах начальной подготовки",
+      "Начальная подготовка безопасности (A-VI/1)",
+      "Подготовка моряков, имеющих назначенные обязанности по охране (A-VI/6)",
+      "Специалист по спасательным шлюпкам и плотам (A-VI/2)",
+      "Борьба с пожаром по расширенной программе (A-VI/3)",
+      "Оказание первой медицинской помощи (A-VI/4)",
+      "Перевозка опасных веществ на судах (B-V/b, B-V/c)",
+      "Сертификат об аттестации военно-морской подготовки (ВМП)"
+    ],
+    "required_documents": [
+      "passport_rf",
+      "zagran_passport",
+      "schengen_visa",
+      "bank_account",
+      "inn",
+      "snils",
+      "seamans_book",
+      "discharge_book",
+      "work_book",
+      "military_id",
+      "medical_book",
+      "medical_714",
+      "drug_test",
+      "yellow_fever",
+      "psych_test",
+      "labor_safety",
+      "electrical_safety",
+      "commercial_secret",
+      "crane_operator",
+      "slinger"
     ]
   }
 ]

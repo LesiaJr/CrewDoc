@@ -1,0 +1,59 @@
+{
+  "full_name": "Смирнов Павел Андреевич",
+  "date_of_birth": null,
+  "citizenship": null,
+  "email": "smirnov.pa@sea.ru",
+  "phone": null,
+  "rank": "Matros",
+  "documents": {
+    "passport_rf": "4510 111111",
+    "zagran_passport": null,
+    "inn": null,
+    "snils": null,
+    "military_id": null,
+    "medical_book": "Есть",
+    "drug_test": null
+  },
+  "vessel_types": [
+    "Container"
+  ],
+  "trading_area": null,
+  "years_in_rank": 2.0,
+  "total_sea_years": null,
+  "sea_service": [
+    {
+      "period": "2 года",
+      "rank": "Matros",
+      "vessel": null,
+      "vessel_type": "Container",
+      "dwt": null
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Удостоверение квалифицированного матроса (II/5)",
+      "number": "111",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    },
+    {
+      "name": "Начальная подготовка безопасности",
+      "number": "222",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    },
+    {
+      "name": "Подготовка моряков с обязанностями по охране",
+      "number": "333",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    }
+  ],
+  "medical_valid_until": "01.05.2027",
+  "seamans_book": {
+    "number": "999888",
+    "valid_until": "01.01.2030"
+  },
+  "languages": [],
+  "education": null
+}

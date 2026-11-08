@@ -1,7 +1,7 @@
 {
   "full_name": "Соколов Дмитрий Андреевич",
   "date_of_birth": "08.05.1990",
-  "citizenship": " РФ",
+  "citizenship": "РФ",
   "email": "sokolov.da@sea.ru",
   "phone": "+7 916 444-55-66",
   "rank": "Second Officer",
@@ -82,8 +82,8 @@
     }
   ],
   "education": {
-    "institution": "Учебное заведение: ГМУ им. адм. Ушакова",
-    "specialty": "специальность: судовождение",
+    "institution": "ГМУ им. адм. Ушакова",
+    "specialty": "судовождение",
     "year": 2016
   }
 }

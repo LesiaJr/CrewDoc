@@ -1,0 +1,9 @@
+{
+  "full_name": "Иванов Игорь Петрович",
+  "email": "ivanov.ip@mail.ru",
+  "rank": "Second Officer",
+  "vessel_types": ["Container"],
+  "years_in_rank": 5.0,
+  "total_sea_years": 10.0,
+  "certificates": []
+}

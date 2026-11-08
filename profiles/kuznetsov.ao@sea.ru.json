@@ -1,0 +1,69 @@
+{
+  "full_name": "Кузнецов Артем Олегович",
+  "date_of_birth": null,
+  "citizenship": "Россия",
+  "email": "kuznetsov.ao@sea.ru",
+  "phone": null,
+  "rank": "Third Officer",
+  "documents": {
+    "passport_rf": "4010 999888",
+    "zagran_passport": null,
+    "sid": null,
+    "schengen_visa": null,
+    "bank_account": null,
+    "inn": null,
+    "snils": null,
+    "military_id": null,
+    "discharge_book": null,
+    "work_book": null,
+    "extra_docs": {
+      "work_book": null,
+      "УЛМ": "777888",
+      "Медкнижка": null
+    }
+  },
+  "vessel_types": [
+    "Container"
+  ],
+  "medical_info": {
+    "medical_book": null,
+    "medical_714": null,
+    "drug_test": null,
+    "yellow_fever": null,
+    "psych_test": null,
+    "san_minimum": null,
+    "valid_until": "01.01.2030"
+  },
+  "trading_area": null,
+  "years_in_rank": 2.0,
+  "total_sea_years": 4.0,
+  "sea_service": [],
+  "certificates": [
+    {
+      "name": "STCW Basic Safety Training",
+      "number": "111",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    },
+    {
+      "name": "GMDSS GOC",
+      "number": "333",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    },
+    {
+      "name": "Medical First Aid",
+      "number": "444",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    }
+  ],
+  "languages": [],
+  "education": {
+    "institution": null,
+    "specialty": null,
+    "year": null
+  },
+  "extra_info": {},
+  "profile_status": "DOCS_PENDING"
+}

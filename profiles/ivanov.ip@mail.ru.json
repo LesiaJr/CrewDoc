@@ -1,0 +1,38 @@
+{
+  "full_name": "Иванов Игорь Петрович",
+  "email": "ivanov.ip@mail.ru",
+  "rank": "Second Officer",
+  "vessel_types": [
+    "Container"
+  ],
+  "years_in_rank": 5.0,
+  "total_sea_years": 10.0,
+  "certificates": [
+    {
+      "name": "STCW Basic Safety Training",
+      "number": "BST-2014-1187",
+      "expiry_date": "12.05.2041"
+    },
+    {
+      "name": "Advanced Fire Fighting",
+      "number": "AFF-2016-0342",
+      "expiry_date": "20.06.2041"
+    },
+    {
+      "name": "GMDSS GOC",
+      "number": "GOC-2015-8891",
+      "expiry_date": "10.02.2040"
+    },
+    {
+      "name": "Medical First Aid",
+      "number": "MFA-2014-0456",
+      "expiry_date": "15.05.2041"
+    },
+    {
+      "name": "Radar Navigation",
+      "number": "RN-2018-1123",
+      "expiry_date": "03.09.2043"
+    }
+  ],
+  "profile_status": "READY"
+}

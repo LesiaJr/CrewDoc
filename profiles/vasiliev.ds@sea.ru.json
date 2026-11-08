@@ -1,0 +1,81 @@
+{
+  "full_name": "Васильев Дмитрий Сергеевич",
+  "date_of_birth": null,
+  "citizenship": null,
+  "email": "vasiliev.ds@sea.ru",
+  "phone": null,
+  "rank": "Second Officer",
+  "documents": {
+    "passport_rf": "4515 123456",
+    "zagran_passport": "75 1234567",
+    "inn": "123456789012",
+    "snils": "123-456-789 00",
+    "military_id": null,
+    "medical_book": null,
+    "drug_test": null
+  },
+  "vessel_types": [
+    "Container"
+  ],
+  "trading_area": null,
+  "years_in_rank": 4.0,
+  "total_sea_years": 8.0,
+  "sea_service": [
+    {
+      "period": null,
+      "rank": "Second Officer",
+      "vessel": null,
+      "vessel_type": "Container",
+      "dwt": null
+    }
+  ],
+  "certificates": [
+    {
+      "name": "STCW Basic Safety Training",
+      "number": "111",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    },
+    {
+      "name": "Advanced Fire Fighting",
+      "number": "222",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    },
+    {
+      "name": "GMDSS GOC",
+      "number": "333",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    },
+    {
+      "name": "Medical First Aid",
+      "number": "444",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    },
+    {
+      "name": "Radar Navigation",
+      "number": "555",
+      "issued_date": null,
+      "expiry_date": "01.01.2040"
+    }
+  ],
+  "medical_valid_until": "01.01.2030",
+  "seamans_book": {
+    "number": "123456",
+    "valid_until": "01.01.2030"
+  },
+  "languages": [
+    {
+      "language": null,
+      "level": null
+    }
+  ],
+  "education": {
+    "institution": null,
+    "specialty": null,
+    "year": null
+  },
+  "profile_status": "READY"
+}
