@@ -249,7 +249,6 @@ def print_report(candidate: dict, vacancy: Vacancy, stage1: tuple, stage2: dict,
             if stage2["expiring"]:
                 print(f"     Истекают: {', '.join([str(e.get('name') or 'Неизвестно') for e in stage2['expiring']])}")
 
-        # Вывод альтернатив (он должен быть вне блока ожидания)
         print("\nАЛЬТЕРНАТИВЫ:")
         # ...
         if alternatives:
